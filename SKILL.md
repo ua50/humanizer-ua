@@ -4,12 +4,12 @@ description: "Правка українських текстів і службо
 license: MIT
 metadata:
   version: "1.0.0"
-  author: "ua50"
+  author: "ODIZH"
 ---
 
 # humanizer-ua
 
-Автор: ua50, 2026. Ліцензія MIT.
+Автор: ODIZH, 2026. Ліцензія MIT.
 
 ## Призначення
 

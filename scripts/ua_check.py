@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (c) 2026 ua50. Ліцензія MIT, див. файл LICENSE.
+# Copyright (c) 2026 ODIZH. Ліцензія MIT, див. файл LICENSE.
 """Перевірка українського тексту за правилами humanizer-ua. Евристика, не детектор ШІ."""
 import re, sys
 
